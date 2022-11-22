@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" viewBox="0 0 30 20" fill="none">
+  <rect x="19.7227" y="5.81348" width="9.39316" height="2.13904" fill="#F1BA2C"></rect>
+  <path d="M18.5156 5.8125L21.2013 5.8125L23.338 7.94923L20.6524 7.94923L18.5156 5.8125Z" fill="#F1BA2C"></path>
+  <rect x="19.0742" y="1.7207" width="10.0442" height="2.13904" fill="#F1BA2C"></rect>
+  <rect width="16.5233" height="2.13904" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 29.3633 14.876)" fill="#F1BA2C"></rect>
+  <rect width="15.3561" height="2.13904" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 26.207 17.666)" fill="#F1BA2C"></rect>
+  <rect width="1.90108" height="2.13904" transform="matrix(-0.707106 -0.707107 -0.707106 0.707107 16.6914 8.15234)" fill="#F1BA2C"></rect>
+  <rect width="1.90108" height="2.13904" transform="matrix(-0.707106 -0.707107 -0.707106 0.707107 19.6992 5.2041)" fill="#F1BA2C"></rect>
+  <path d="M23.1797 1.7207L20.4912 1.7207L18.3521 3.85974L21.0406 3.85974L23.1797 1.7207Z" fill="#F1BA2C"></path>
+  <path d="M0.0078125 14.876L13.1675 1.71625L16.1926 1.71625L1.52034 16.3885L0.0078125 14.876Z" fill="#F1BA2C"></path>
+  <rect x="0.195312" y="1.7207" width="10.0442" height="2.13904" fill="#F1BA2C"></rect>
+  <rect x="0.195312" y="5.81348" width="9.20716" height="2.13904" fill="#F1BA2C"></rect>
+  <rect width="3.58162" height="2.13904" transform="matrix(-0.707106 -0.707107 -0.707106 0.707107 12.7969 4.25391)" fill="#F1BA2C"></rect>
+  <path d="M3.16406 17.666L19.1092 1.72092L22.1342 1.72093L4.67659 19.1785L3.16406 17.666Z" fill="#F1BA2C"></path>
+</svg>
